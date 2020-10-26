@@ -1,4 +1,4 @@
-# WEBPROJECT_ARCADE_GAMEPAGE
+# WEBPROGRAMMING CLASS TERM PROJECT:_ARCADE_GAME_WebPAGE
 This repository includes our team's web programming project: "The Arcade Game" page.
 This page is made of HTML,JavaScript, JSP and some SQL database queries. 
 <img src="img_visual03.jpg" width="600" height="600">
