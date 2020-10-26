@@ -2,6 +2,8 @@
 This repository includes webProgramming project- 
 [Arcade Gamepage(고전게임을 즐길 수 있는 사이트)]
 
+!(image03)[img_visual03.jpg]
+
 
 ### 팀프로젝트 소개 영상(발표 영상)
 [https://youtu.be/5S9DC8npByQ](https://youtu.be/5S9DC8npByQ)
