@@ -6,7 +6,7 @@ This repository includes webProgramming project-
 
 
 ### 팀프로젝트 소개 영상(발표 영상)
-[https://youtu.be/5S9DC8npByQ](https://youtu.be/5S9DC8npByQ)
+[https://youtu.be/5S9DC8npByQ](https://youtu.be/5S9DC8npByQ){: }
 
 
 ### 프로젝트 결과 보고서
