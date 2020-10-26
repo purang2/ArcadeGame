@@ -1,5 +1,6 @@
 # WEBPROJECT_ARCADE_GAMEPAGE
-This repository includes webProgramming project- [Arcade Gamepage(고전게임을 즐길 수 있는 사이트)]
+This repository includes webProgramming project- 
+[Arcade Gamepage(고전게임을 즐길 수 있는 사이트)]
 
 
 ### 팀프로젝트 소개 영상(발표 영상)
