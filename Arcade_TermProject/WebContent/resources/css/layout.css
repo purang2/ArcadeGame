@@ -1,0 +1,64 @@
+.wrapper {
+    width: 1500px;
+}
+.content {
+    width: inherit;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.time-bar {
+    margin-left: 300px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.score {
+    font-size: 30px;
+    font-weight: bold;
+}
+.progress {
+    width: 900px;
+    height: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.sidebar {
+    width: 400px;
+    height: 400px;
+    float: right;
+    text-align: center;
+    background-color: wheat;
+}
+.image-content {
+    width: 1000px;
+    float: left;
+    vertical-align: top;
+}
+.image {
+    width: 450px;
+    height: auto;
+    float: left;
+    vertical-align: top;
+    position: relative;
+    margin-left: 20px;
+}
+
+.answer {
+    position: absolute;
+    z-index: 200;
+}
+.answer-circle {
+    stroke: red;
+    stroke-width: 5px;
+    fill: none;
+    display: none;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: stroke 2s ease-out forwards;
+}
+
+@keyframes stroke {
+    to {
+        stroke-dashoffset: 500;
+    }
+}

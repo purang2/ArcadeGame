@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* Form Control */
+input,
+select,
+textarea,
+label{display:inline-block; box-sizing:border-box; width:auto; vertical-align:middle; line-height:1.4;}
+input[type=text],
+input[type=password],
+input[type=tel],
+input[type=date],
+input[type=email],
+input[type=number],
+textarea{height:33px; padding:7px 8px; margin:2px 0px; border:1px solid #ddd; background:#fff; vertical-align:middle;}
+textarea{resize:none;}
+select{height:33px; padding:0 8px; margin:2px 0px; border:1px solid #ddd; background:#fff; vertical-align:middle;}
+select::-ms-expand {background-color:transparent; border:0;}
+input[type="text"],
+input[type="password"],
+input[type="submit"],
+input[type="button"],
+input[type="number"],
+select{-webkit-border-radius:1px; -webkit-appearance:none;}
+select{padding-right:30px; background:url(../images/board/select_arrow.svg) no-repeat calc(100% - 10px) 50%; background-size:10px 7px;}
+body[class*="ie"] select{padding-right:10px;}
+input[type=file]{background:#eee; font-size:1.08em;}
+input[readonly],
+input[disabled]{background:#eee;}
+input[type=checkbox],
+input[type=radio]{width:13px; height:13px; margin:2px 3px 1px 0;}
+input[type=checkbox] + label,
+input[type=radio] + label{margin-right:20px;}
+table{width:100%;}
+
+
+/* text color */
+.txt_blue{color:#5971d1;}
+.txt_red{color:#d1597f;}
+
+
+
+
+/* tab all - cols */
+.tabCol ul{display:table; width:100%; table-layout:fixed;}
+.tabCol ul > li{display:table-cell; margin-left:-0.1px; vertical-align:middle;}
+.tabCol ul > li:first-child{margin-left:0px;}
+.tabCol ul > li > a{display:block; text-align:center;}
+
+
