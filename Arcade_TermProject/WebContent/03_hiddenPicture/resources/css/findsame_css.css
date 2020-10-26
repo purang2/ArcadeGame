@@ -1,0 +1,202 @@
+
+    .link{color:#B90000;}
+    body{
+        font-family: 'Nanum Gothic', sans-serif;
+        background-size: 100% 50%;
+        margin : 0;
+    }
+    
+    .score{
+        border: none; 
+        color: white;
+        width: 80px;
+        height: 50px;
+        
+        padding: 5px;  
+        background-color: #0b0c0c; 
+        font-weight: bold; 
+        cursor: pointer;
+    
+    }
+    
+    
+    
+    
+    .bodyBox{
+                margin-left : 50px;
+                margin-right : 50px;
+                margin-top : 30px;
+                line-height : 35px;
+            }
+    
+    
+    div.box1{
+        height: 70px;
+        background-color:#1E3269;
+        color: white;
+        border-width:5px;
+        font-size: 20px;
+        padding-left : 20px;
+        padding-right : 20px;
+        }
+        
+    
+    div.titleNameBox{
+        margin : 20px;
+        width: 500px;
+        
+    }
+        
+    #box2{
+        height: 40px;
+        border-style:solid;
+        border-width:2px;
+        border-color:#d2d2d2;	
+        font-size: 20px;
+        line-height: 40px;
+        background-color: white;
+        padding-left: 250px;
+        padding-right: 250px;
+        margin : 20px;	
+        text-align: center;
+        list-style: none;	
+        }
+    #card{border-collapse: collapse;}
+    #card td img{max-width: 128px;}
+    #card td span{font-size: 25pt; font-weight: bold; color: #da2128; display: none;}	
+    
+    
+    
+    #countDown{background-color: skyblue; color: white; font-size: 20pt; width: 600px;}
+    
+    
+    #box2 li{
+        float: left;
+        width: 150px;
+        position:relative;
+        text-align: center;
+    }
+    
+    #box2 ul{
+        list-style: none;
+        display: none;/*보이지 않도록 하는 속성*/
+        text-align: center;
+        font-size : 15px;
+    }
+    
+    #box2 li:hover ul{
+        display: block;
+        text-align: center;
+    }
+    
+    #box2 a:visited{
+        color: black;
+    }
+    
+    #box2 a:link{
+        color: black;
+    }
+    
+    #box2 ul li{
+        background-color: white;
+        text-align: center;
+    }
+    
+        
+    div.menuBox{
+        height: 475px;
+        width: 475px;
+        background-color: darkgray;
+        opacity: 0.8;
+        padding: 10px;
+        margin: 10px;
+    
+    }
+    
+    div.inmenuBox{
+        height: 106px;
+        width: 106px;
+        background-color: black;
+        float: left;
+        margin: 5px;
+        line-height: 200px;
+        font-size: 20px;
+    }
+    
+    div.inmenuBox5{
+        height: 84px;
+        width: 84px;
+        background-color: black;
+        float: left;
+        margin: 5px;
+        line-height: 200px;
+        font-size: 20px;
+    }
+    
+
+    div.inmenuBox6{
+        height: 68px;
+        width: 68px;
+        background-color: black;
+        float: left;
+        margin: 5px;
+        line-height: 200px;
+        font-size: 20px;
+    }
+    
+    
+    .red{
+        color:#B90000;
+    }
+    
+    .right{
+        text-align:right;
+        color: white;
+        font-size: 20;
+        }
+        
+    #startBtn{
+        border: none; 
+        color: black;
+        border-style: solid;
+        border-color: skyblue; 
+        background-color: white; 
+        width: 100px;
+        height: 50px;
+        padding: 5px; 
+        font-weight: bold;
+        font-size: 17px; 
+        cursor: pointer;
+        }
+            
+    
+    #scoreBtn{
+        border: none; 
+        color: black;
+        border-style: solid;
+        border-color: skyblue; 
+        background-color: white; 
+        width: 85px;
+        height: 50px;
+        padding: 5px; 
+        font-weight: bold;
+        font-size: 17px; 
+        cursor: pointer;
+        }
+    
+    
+    div.TitleBox{
+        height: 70px;
+        width: 500px;
+        color: black;
+        font-size: 30px;
+        line-height: 70px;
+        
+        margin:5px;
+        padding: 10px;
+        padding-bottom: 15px;
+        background-color: rgba( 255, 255, 255, 0.8 );
+        position: relative;
+    }
+        
+    

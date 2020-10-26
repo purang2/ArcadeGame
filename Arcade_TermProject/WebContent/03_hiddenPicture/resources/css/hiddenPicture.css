@@ -1,0 +1,63 @@
+@charset "EUC-KR";
+		
+		#hiddenPicture_page{
+			width : 830px;
+			margin : 50px auto;
+		}
+		#hiddenPicture_Game {
+			background-color : white; 
+			width : 750px; height : 500px;
+			border : 2px black solid;			
+		}
+		#hiddenPicture_div{ height: 435px }
+		#hiddenPicture_div2{
+			padding : 30px 30px 0 30px;
+			position : relative;
+			z-index : 1
+		}
+		#hiddenPicture_div2 img{ width : 690px; height : 400px}
+		#target_div { padding : 0 30px; margin : 0 auto; height : 65px}		
+		#target_list { padding:0; margin :0}
+		#target_list li{ list-style: none; display : inline-block }
+		#target_img{ width : 60px; height : 60px }
+		
+		.right_circle_div {	width : 65px; z-index : 2 }	
+		.right_circle_div img{ width : 60px; height : 60px }
+		
+		#countdown_redbox{
+			background : red;
+			width:300px;
+			height : 10px;
+			display : inline-block;
+		}
+		#countdown_bluebox {
+            height: 10px;
+            background: skyblue;
+            position: relative;
+        }
+        
+        #next_div, #setting_div {
+        	text-align : center ; 
+        	position : relative; 
+        	left : 0px; 
+        	top : -500px; 
+        	width : 750px; 
+        	height : 500px; 
+			background:rgba(200, 255, 255, 0.5);        	
+        	z-index : 3
+        }
+        #next_div > div, #setting_white {
+			display: inline-block; margin-top: 140px; padding-top: 30px; width : 300px; height : 130px; font-size : 18px; color : black; background-color : white    
+        }
+        
+        #setting_div > #setting_white{ width : 400px; height : 200px }
+        #setting_white > div {font-size :15px; margin-top : 20px}
+        #next_div button{
+        	margin-top: 20px; 
+        	width: 51px
+        }
+        #answer_img img{
+        	width:300px;
+        	height:200px
+        }
+        
