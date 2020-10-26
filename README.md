@@ -2,7 +2,7 @@
 This repository includes webProgramming project- 
 [Arcade Gamepage(고전게임을 즐길 수 있는 사이트)]
 
-<img src-"img_visual03.jpg" width="400" height="400">
+<img src="img_visual03.jpg" width="400" height="400">
 
 ### 팀프로젝트 소개 영상(발표 영상)
 [https://youtu.be/5S9DC8npByQ](https://youtu.be/5S9DC8npByQ){: }
