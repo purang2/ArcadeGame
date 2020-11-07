@@ -1,6 +1,4 @@
 # ARCADEGAME: 고전게임 웹페이지 프로젝트
-This repository includes our team's web programming project: "The Arcade Game" page.
-This page is made of HTML,JavaScript, JSP and some SQL database queries. 
 <img src="img_visual03.jpg" width="600" height="600">
 
 ### 팀프로젝트 소개 영상(발표 영상)
