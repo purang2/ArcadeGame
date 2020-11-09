@@ -80,11 +80,60 @@
 
 ## 2.게임 플레이 화면 
 
+- da
 
-ㅇㄴㅇ
+<img src="V1.jpg">
+
+- da
+
+<img src="V2.jpg">
+
+- da
+
+<img src="V3.jpg">
+
+- da
+
+<img src="V4.jpg">
+
+- da
+
+<img src="V5.jpg">
+
+- da
+
+<img src="V6.jpg">
+
+- da
+
+<img src="V7.jpg">
+
+- da
+
+<img src="V8.jpg">
+
+- da
+
+<img src="V9.jpg">
+
+- da
+
+<img src="V10.jpg">
+
+- da
+
+<img src="V11.jpg">
+
+- da
+
+<img src="V12.jpg">
+
+
+
 
 
 ---
+
 
 ## 3. 코드 
 
