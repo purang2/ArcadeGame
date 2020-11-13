@@ -137,3 +137,17 @@
 
 [코드 폴더 링크](https://github.com/purang2/ArcadeGame_AdvWebProgramming/tree/main/Arcade_TermProject/WebContent)
 
+
+
+## 수업을 통해 알게 된 점 
+
+- JS(자바스크립트)와 JSP의 차이:
+ JSP는 서버에서 자원들(코드)을 사용하는 것이고 JavaScript는 클라이언트에서 자원들(코드)을 사용합니다.
+기존의 Java언어를 사용하는 것에는 동일하지만
+JSP는 웹 서버에서 실행되는 .JSP파일이라면,
+JavaScipt는 <script>태그를 사용하여 표현하죠. 사용자의 웹 화면인 .HTML파일 입니다.
+다시 말해 서버에서 실행되어 결과를 사용자에게 보여주는 방식이 JSP이고 
+자바스크립트는 클라이언트(사용자)의 웹 브라우저 화면에 실행되어지는 방식입니다.
+JSP는 서버 언어!
+JavaScript는 클라이언트 언어!
+
